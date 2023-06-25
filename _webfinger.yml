@@ -1,4 +1,5 @@
 woutervandervelde@rolomail.nl:
   name: Wouter van der Velde
   host: https://www.rolomail.nl
-  re: http://openid.net/specs/connect/1.0/issuer
+  rel: http://openid.net/specs/connect/1.0/issuer
+  href: https://rolomail.nl
